@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }
+# frame-support = { version = "2.0.0" }
+
